@@ -1,7 +1,7 @@
 # Từ điển tiếng anh
 ## Dự án môn phát triển ứng dụng Android JAVA (Bản chính thức)
 ### Hình ảnh demo <br/>
-![Home](./img_demo/home.jpg?raw=true "home")<br/>
+![Home](./img_demo/home.PNG?raw=true "home")<br/>
 ![Search](./img_demo/search.jpg?raw=true "search")<br/>
 ![Result search](./img_demo/result_search.jpg?raw=true "result_search")<br/>
 ![Favorites](./img_demo/favorites.jpg?raw=true "favorites")<br/>
